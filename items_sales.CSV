@@ -109,7 +109,7 @@
 "20-3000-1506 (Button and LED control board with 12V/2A power supply and serial ca...",358,8269.00,0.0%,23.10
 "20-3000-1507 (Power distribution Assembly, 12V 10A IN, w/ power supply)",10,680.00,0.0%,68.00
 "20-3000-1510 (Quectel 4G module EC25-AFXD mini PCIe)",36,1357.00,0.0%,37.69
-"20-3000-1520 (Installation kit for HP Mini G9R)",2300,54780.00,0.2%,23.82
+"20-3000-1520 (Installation kit for HP Mini G9R)",2300,54780.00,0.3%,23.82
 "20-3000-1521 (Update Cable for Daisy Chain)",20,15.00,0.0%,0.75
 "20-3000-1523 (Installation kit for HP, ziplock bag, 2x3M tape, 2xzip ties, 2xcabl...",1967,9520.55,0.0%,4.84
 "20-3000-1524 (Enclosure for Intel Board)",16,3578.00,0.0%,223.63
@@ -117,7 +117,7 @@
 "20-3000-1526 (Bright Sign Built-In XT1144 Mounting Bracket)",10,0.00,0.0%,0.00
 "20-3000-1527 (Ceiling Mount Kit for Dual FlexOS 46"" and Dual FlexOS 55"")",3,0.00,0.0%,0.00
 "20-3000-1529 (Button and LED Control Box with Serial and USB C, 12V/3A 1.5M, 3.5m...",3767,128078.00,0.6%,34.00
-"20-3000-1532 (Darko Sensor Control Box, MicroUSB/USB Type-C Cable 0.5M)",3922,117660.00,0.5%,30.00
+"20-3000-1532 (Darko Sensor Control Box, MicroUSB/USB Type-C Cable 0.5M)",3922,117660.00,0.6%,30.00
 "20-3000-1533 (Proximity Sensor, 5pin 1.5M, 2.0M Detection Range)",11766,151781.40,0.7%,12.90
 "20-3000-1536 (Cable Cover for glass mount scheduling panel)",100,3500.00,0.0%,35.00
 "20-3000-1539 (Packaging 39.4"" Wall Unit Packing Materials)",25,375.00,0.0%,15.00
@@ -149,7 +149,7 @@
 "20-3002-2058 (13.3"" Finished V-Series Touch 1920x1080)",0,0.00,0.0%,0.00
 "20-3002-2059 (13.3"" Finished V-Series 1920x1080)",109,19544.00,0.1%,179.30
 "20-3002-2065 (23.8"" Finished V-Series 1920x1080)",12,5310.00,0.0%,442.50
-"20-3002-2067 (27"" Finished V-Series 1920x1080)",1117,449590.00,2.0%,402.50
+"20-3002-2067 (27"" Finished V-Series 1920x1080)",1117,449590.00,2.1%,402.50
 "20-3002-2071 (32"" Finished V-Series 1920x1080)",46,17034.00,0.1%,370.30
 "20-3002-2080 (15.6"" Frameless V-Series Touch Symmetric Design 1920x1080)",50,20800.00,0.1%,416.00
 "20-3002-2091 (10.1” Frameless V-Series Duco replacement  BBY Mount 245x106mm 1280...",168,21242.00,0.1%,126.44
@@ -168,28 +168,28 @@
 "20-3002-2258 (43"" Finished V-Series 1920 x 1080)",120,47760.00,0.2%,398.00
 "20-3002-2259 (19.1"" UW Finished V-Series Touch 1920x408)",2,0.00,0.0%,0.00
 "20-3002-2264 (10.1"" Frameless V-Series, Thin Form Factor, MicroSD Input, 1280x800)",2,252.00,0.0%,126.00
-"20-3003-0015 (8GB Sandisk Ultra Class10 MicroSD Card Gen 3)",5179,33493.00,0.1%,6.47
+"20-3003-0015 (8GB Sandisk Ultra Class10 MicroSD Card Gen 3)",5179,33493.00,0.2%,6.47
 "20-3003-0016 (16GB Sandisk Ultra Class10 MicroSD Card, Gen 3)",8646,85712.50,0.4%,9.91
 "20-3003-0017 (32GB Sandisk Ultra Class10 MicroSD Card, Gen 3)",40,176.00,0.0%,4.40
 "20-3003-0018 (64GB Sandisk Ultra Class10 MicroSD Card, Gen 3)",91,447.00,0.0%,4.91
 "20-3003-0019 (8GB Kingston Class 4 MicroSD Card)",40,0.00,0.0%,0.00
 "20-3004-1031 (21.5"" Finished BrightSign Built-In XT-1144-PP Touch 1920x1080)",0,0.00,0.0%,0.00
-"20-3004-1177 (32""  Finished BrightSign Built-In XT1144-PP Touch 1920x1080)",556,362294.00,1.6%,651.61
+"20-3004-1177 (32""  Finished BrightSign Built-In XT1144-PP Touch 1920x1080)",556,362294.00,1.7%,651.61
 "20-3006-1002 (10.1"" Frameless R-series Touch 1280x800)",2,712.00,0.0%,356.00
 "20-3006-1010 (13.3"" Finished R Series Touch Countertop Portrait 1920x1080)",3,934.00,0.0%,311.33
 "20-3006-1013 (21.5"" Finished R Series Touch 1920x1080)",1,0.00,0.0%,0.00
 "20-3006-1016 (13.3"" Frameless R Series Touch 1920x1080)",2,200.00,0.0%,100.00
 "20-3006-1032 (21.5"" Finished R Series, Touch, PoE, 1920x1080)",0,0.00,0.0%,0.00
-"20-3006-1040 (21.5"" Finished R Series POE+ 1920x1080)",795,275070.00,1.2%,346.00
+"20-3006-1040 (21.5"" Finished R Series POE+ 1920x1080)",795,275070.00,1.3%,346.00
 "20-3006-1045 (10.1"" Frameless R Series PoE+ 1280 x 800)",29,7743.00,0.0%,267.00
 "20-3006-1050 (13.3"" Frameless R Series1920x1080)",1,0.00,0.0%,0.00
 "20-3006-1053 (15.6"" Frameless R-Series, PoE1920x1080)",31,9672.00,0.0%,312.00
 "20-3006-1054 (15.6"" Frameless R series Touch POE+ 1920x1080)",8,3456.00,0.0%,432.00
-"20-3006-1083 (10.1"" Finished R-Series 1280 x 800)",30,10900.00,0.0%,363.33
-"20-3006-1084 (10.1"" Finished  R series POE+ 1280x800)",272,78336.00,0.3%,288.00
+"20-3006-1083 (10.1"" Finished R-Series 1280 x 800)",30,10900.00,0.1%,363.33
+"20-3006-1084 (10.1"" Finished  R series POE+ 1280x800)",272,78336.00,0.4%,288.00
 "20-3006-1085 (10.1"" Finished R Series Touch POE+ 1280x800)",13,4050.00,0.0%,311.54
-"20-3006-1089 (11.6"" Finished R-Series Capacitive Touch PoE 1920x1080)",271,75600.00,0.3%,278.97
-"20-3006-1094 (15.6"" Finished R Series POE 1920x1080)",837,286254.00,1.3%,342.00
+"20-3006-1089 (11.6"" Finished R-Series Capacitive Touch PoE 1920x1080)",271,75600.00,0.4%,278.97
+"20-3006-1094 (15.6"" Finished R Series POE 1920x1080)",837,286254.00,1.4%,342.00
 "20-3006-1095 (15.6"" Finished R Series Touch POE+ 1920x1080)",98,47277.00,0.2%,482.42
 "20-3006-1106 (27"" Finished R Series, 1920x1080)",2,972.00,0.0%,486.00
 "20-3006-1108 (27"" Finished R Series PoE 1920x1080)",12,7424.00,0.0%,618.67
@@ -204,16 +204,16 @@
 "20-3006-1251 (11.6"" Finished R-Series, PoE,  1920x1080, For Vitec)",5,1090.00,0.0%,218.00
 "20-3006-1252 (21.5"" Finished R-Series, PoE,  1920x1080, For Vitec)",3,840.00,0.0%,280.00
 "20-3006-1272 (21.5"" Finished R-Series Touch POE, Outdoor 1920 x 1080)",5,5525.00,0.0%,1105.00
-"20-3008-1001 (10.1"" Finished BrightSign Built-In  Capacitive Touch 1280x800)",356,161184.00,0.7%,452.76
+"20-3008-1001 (10.1"" Finished BrightSign Built-In  Capacitive Touch 1280x800)",356,161184.00,0.8%,452.76
 "20-3008-1002 (10.1"" Custom Frameless BrightSign Built-In Capacitive Touch 1280x80...",2,0.00,0.0%,0.00
 "20-3008-1003 (13.3"" Finished BrightSign Built-In Capacitive Touch 1920x1080)",2,0.00,0.0%,0.00
 "20-3008-1028 (10.1"" Finished  White BrightSign Built-In Touch POE+ 1280x800)",1,0.00,0.0%,0.00
-"20-3008-1030 (10.1"" Custom Frameless BrightSign Built-In Touch Black 1280x800)",3120,1372832.00,6.0%,440.01
-"20-3008-1032 (21.5"" Finished BrightSign Built-in, Touch, PoE, 1920x1080)",221,146307.00,0.6%,662.02
+"20-3008-1030 (10.1"" Custom Frameless BrightSign Built-In Touch Black 1280x800)",3120,1372832.00,6.6%,440.01
+"20-3008-1032 (21.5"" Finished BrightSign Built-in, Touch, PoE, 1920x1080)",221,146307.00,0.7%,662.02
 "20-3008-1035 (15.6"" Frameless BrightSign Built-In 1920x1080)",2,712.00,0.0%,356.00
 "20-3008-1037 (19.5"" Frameless BrightSign Built-In 1920x1080)",4,1544.00,0.0%,386.00
 "20-3008-1038 (21.5"" Frameless BrightSign Built-In 1920x1080)",34,12920.00,0.1%,380.00
-"20-3008-1040 (21.5"" Finished BrightSign Built-In PoE+ 1920X1080)",315,163142.00,0.7%,517.91
+"20-3008-1040 (21.5"" Finished BrightSign Built-In PoE+ 1920X1080)",315,163142.00,0.8%,517.91
 "20-3008-1041 (23.8"" Frameless BrightSign Built-In 1920x1080)",161,62307.00,0.3%,387.00
 "20-3008-1042 (23.8"" FramelessBrightSign Built-In  Capacitive Touch 1920x1080)",41,25208.00,0.1%,614.83
 "20-3008-1043 (32"" Finished BrightSign Built-In Capacitive Touch PoE++ 1920x1080)",13,12309.00,0.1%,946.85
@@ -237,14 +237,14 @@
 "20-3008-1091 (13.3"" Finished BrightSign Built-In PoE 1920x1080)",10,5187.00,0.0%,518.70
 "20-3008-1093 (15.6"" Finished BrightSign Built-In Capacitive Touch 1920x1080)",4,0.00,0.0%,0.00
 "20-3008-1094 (15.6"" Finished BrightSign Built-In PoE 1920x1080)",51,27618.00,0.1%,541.53
-"20-3008-1095 (15.6"" Finished BrightSign Built-in, Touch, PoE, 1920x1080)",201,116898.00,0.5%,581.58
+"20-3008-1095 (15.6"" Finished BrightSign Built-in, Touch, PoE, 1920x1080)",201,116898.00,0.6%,581.58
 "20-3008-1101 (21.5"" Finished BrightSign Built-In Capacitive Touch 1920X1080)",148,80150.00,0.4%,541.55
 "20-3008-1103 (23.8"" Finished BrightSign Built-In  Capacitive Touch 1920x1080)",6,4458.00,0.0%,743.00
 "20-3008-1104 (23.8"" Finished BrightSign Built-In PoE+ 1920x1080)",14,9856.00,0.0%,704.00
 "20-3008-1106 (27"" Finished  BrightSign Built-In 1920x1080)",16,10430.00,0.0%,651.88
 "20-3008-1111 (32"" Finished BrightSign Built-in, Touch, 1920x1080)",28,20965.00,0.1%,748.75
-"20-3008-1128 (10.1"" Custom Frameless Duco replacement BrightSign Built-In 245x106...",230,76967.00,0.3%,334.64
-"20-3008-1129 (10.1"" Custom Frameless BrightSign Built-In BBY 260.4x140mm mounting...",339,122199.00,0.5%,360.47
+"20-3008-1128 (10.1"" Custom Frameless Duco replacement BrightSign Built-In 245x106...",230,76967.00,0.4%,334.64
+"20-3008-1129 (10.1"" Custom Frameless BrightSign Built-In BBY 260.4x140mm mounting...",339,122199.00,0.6%,360.47
 "20-3008-1134 (24"" UW Finished BrightSign Built-In Touch POE 1920x360)",-1,-640.00,-0.0%,640.00
 "20-3008-1148 (10.1"" Countertop BrightSign Built-In Capacitive Touch Portrait Whit...",4,0.00,0.0%,0.00
 "20-3008-1149 (10.1"" Countertop BrightSign Built-In Landscape White Housing)",2,441.00,0.0%,220.50
@@ -252,7 +252,7 @@
 "20-3008-1158 (22"" Finished BrightSign Built-In Square No Glass 1920x1920)",1,918.00,0.0%,918.00
 "20-3008-1160 (10.1"" Custom Frameless BrightSign Built-In BOSE-special use 1280x800)",1,0.00,0.0%,0.00
 "20-3008-1171 (32"" Finished BrightSign Built-In no glass cover sandwich board 1920...",1,584.00,0.0%,584.00
-"20-3008-1172 (32"" Finished BrightSign Built-in, No Glass, 1920x1080)",248,124023.00,0.5%,500.09
+"20-3008-1172 (32"" Finished BrightSign Built-in, No Glass, 1920x1080)",248,124023.00,0.6%,500.09
 "20-3008-1181 (10.1” Countertop BrightSign Built-In, Touch, Landscape, 1280x800)",8,2516.00,0.0%,314.50
 "20-3008-1182 (13.3"" Countertop BrightSign Built-In, Touch, Landscape, 1920x1080)",11,3825.56,0.0%,347.78
 "20-3008-1190 (37"" UW Finished BrightSign Built-In No Glass 1920x540)",11,9070.00,0.0%,824.55
@@ -271,9 +271,9 @@
 "20-3008-1239 (13.3"" Finished Bright Sign Built-In Touch POE, Outdoor 1920 x 1080)",8,6760.00,0.0%,845.00
 "20-3008-1240 (21.5"" Finished BrightSign Built-In Touch, PoE, Outdoor 1920 x 1080)",16,19120.00,0.1%,1195.00
 "20-3008-1248 (20.9"" Finished BrightSign Built-in with POE+, 1920x360)",12,6996.00,0.0%,583.00
-"20-3008-1258 (21.5"" Custom Frameless BrightSign Built-In (HS145 Only) Capacitive ...",289,168487.00,0.7%,583.00
+"20-3008-1258 (21.5"" Custom Frameless BrightSign Built-In (HS145 Only) Capacitive ...",289,168487.00,0.8%,583.00
 "20-3008-1259 (10.1"" Custom Frameless BrightSign Built-In Garmin (HS145), 1280 x 800)",252,90720.00,0.4%,360.00
-"20-3008-1267 (12.1” Outdoor Finished BSBI, Touch, POE++, IK10, Antiglare, 1280x800)",211,204070.00,0.9%,967.16
+"20-3008-1267 (12.1” Outdoor Finished BSBI, Touch, POE++, IK10, Antiglare, 1280x800)",211,204070.00,1.0%,967.16
 "20-3008-1268 (13.3"" Countertop BrightSign Built-In, Portrait, Touch, POE, White, ...",1,0.00,0.0%,0.00
 "20-3009-1003 (15.6"" Video Wall BrightSign Built-In 3x1 Black Housing 1920x1080)",1,0.00,0.0%,0.00
 "20-3009-1222 (19.5"" Custom Finished BrightSign Built-In Countertop Touch 1920x108...",-1,-700.00,-0.0%,700.00
@@ -283,22 +283,22 @@
 "20-3009-1235C (39.4"" Custom Countertop UW Finished BrightSign Built-In (HS145) Bu...",10,13950.00,0.1%,1395.00
 "20-3009-1246 (Dual 55"" BSBI, 3840*2160 500nits and 1920*1080 4000nits, Finished, ...",0,0.00,0.0%,0.00
 "20-3009-1271 (13.3"" Finished Bright Sign Built-In Touch POE, Outdoor, 1920 x 1080)",2,1000.00,0.0%,500.00
-"20-3009-1273 (46.0"" Finished Bright Sign Built-In XT1144 1920x1080)",31,31435.00,0.1%,1014.03
+"20-3009-1273 (46.0"" Finished Bright Sign Built-In XT1144 1920x1080)",31,31435.00,0.2%,1014.03
 "20-3009-1274 (50.5"" Finished Bright Sign Built-In XT1144 3840 x 1350 18in High)",23,37283.00,0.2%,1621.00
 "20-3009-1276 (48.0"" Finished UW Bright Sign Built-In (HS145) Touch 3840 x 690)",1,0.00,0.0%,0.00
-"20-3009-1278 (43"" Finished BrightSign Built-In HS145 4K, No HDMI input, No Glass ...",919,573456.00,2.5%,624.00
+"20-3009-1278 (43"" Finished BrightSign Built-In HS145 4K, No HDMI input, No Glass ...",919,573456.00,2.7%,624.00
 "20-3009-1279 (49.0"" Custom Finished BrightSign XT1144-PP, flush silver bezel, inc...",1,1300.00,0.0%,1300.00
 "20-3009-1280 (43” Finished BrightSign Built-in (XT1144-PP), HDMI input, Touch, 38...",2,2009.00,0.0%,1004.50
-"20-3009-1283 (43.3"" UW BrightSign Built-In XT1144-PP, 3840 x 376, (Catwalk 1.2M))",2682,3011769.45,13.2%,1122.96
-"20-3009-1284 (34.8"" UW BrightSign Built-In XT1144-PP, 3840 x 456 (Endcap 0.92M))",745,660315.75,2.9%,886.33
+"20-3009-1283 (43.3"" UW BrightSign Built-In XT1144-PP, 3840 x 376, (Catwalk 1.2M))",2682,3011769.45,14.4%,1122.96
+"20-3009-1284 (34.8"" UW BrightSign Built-In XT1144-PP, 3840 x 456 (Endcap 0.92M))",745,660315.75,3.2%,886.33
 "20-3009-1286 (24” UW Finished BrightSign Built-in (HS145) capacitive touch, 1920x...",2,1328.00,0.0%,664.00
-"20-3009-1287 (39.4"" Custom UW Finished  Black Capacitive touch, matte glass 3840x...",1100,1119288.00,4.9%,1017.53
+"20-3009-1287 (39.4"" Custom UW Finished  Black Capacitive touch, matte glass 3840x...",1100,1119288.00,5.4%,1017.53
 "20-3009-1288 (21.5"" Finished Countertop BrightSign Built-In XT1144, Touch, PoE+, ...",15,11700.00,0.1%,780.00
 "20-3009-1289 (39.1"" Custom UW Finished  Flex-OS, Touch, Bonded IK10 Glass, Anti-G...",4,6700.00,0.0%,1675.00
 "20-3009-1290 (13.3""  Countertop XT BrightSign Built-In, Landscape, Touch, 1920x1080)",80,50000.00,0.2%,625.00
 "20-3009-1292 (39.4"" Custom WHITE UW Finished  Capacitive touch, matte glass 3840x...",14,22348.00,0.1%,1596.29
 "20-3009-1295 (55"" Custom Finished Flex-OS, 25% Haze, 3840x2160, Walmart)",15,27750.00,0.1%,1850.00
-"20-3009-1299 (41.3” Finished HDMI in, Touch, IK10, bonded, 3840x1896)",68,117300.00,0.5%,1725.00
+"20-3009-1299 (41.3” Finished HDMI in, Touch, IK10, bonded, 3840x1896)",68,117300.00,0.6%,1725.00
 "20-3009-1300 (41.5"" Finished BSBI HS145, HDMI input, POE85W, IK10 Glass, Anti-Gla...",26,29324.00,0.1%,1127.85
 "20-3009-1301 (32” Finished Brightsign HS145, PoE85W, IK10 Glass, Anti-Glare, Dark...",18,16056.00,0.1%,892.00
 "20-3009-1302 (27” Finished Brightsign HS145, PoE85W, IK10 Glass, Anti-Glare, Dark...",26,21918.00,0.1%,843.00
@@ -314,13 +314,13 @@
 "20-3011-1267 (10.1"" Custom Finished, G1, Harbor Flip, 1280 x 800     )",7,1920.00,0.0%,274.29
 "20-3011-1270 (10.1"" Finished, G1, Capacitive Touch 1280 x 800)",15,6075.00,0.0%,405.00
 "20-3011-1271 (10.1"" Finished B1 Intel, 1280x800, Capacitive Touch, PoE, LED Bars,...",142,49680.00,0.2%,349.86
-"20-3011-1272 (20.7"" Finished Intel, Dual LCD, PoE, 1920 x 264  )",900,608400.00,2.7%,676.00
+"20-3011-1272 (20.7"" Finished Intel, Dual LCD, PoE, 1920 x 264  )",900,608400.00,2.9%,676.00
 "20-3011-1278 (20.7"" Finished Intel, Dual LCD, PoE, 1920 x 264  )",85,69132.00,0.3%,813.32
 "20-3011-1280 (20.9"" Finished Intel, Single LCD, PoE, IK10, 1920x360)",5,3005.00,0.0%,601.00
 "20-3011-1284 (15.6” Countertop Intel , Touch, Landscape, 1920x1080)",1,630.00,0.0%,630.00
 "20-3012-1006 (27.0"" Finished 4K Touch 3840*2160)",85,43265.00,0.2%,509.00
 "20-3012-1021 (43"" Frameless V4k 3840x2160)",1,0.00,0.0%,0.00
-"20-3012-1026 (65"" Frameless V4K (HDMI input), USB Capacitive Touch 3840x2160)",525,722400.00,3.2%,1376.00
+"20-3012-1026 (65"" Frameless V4K (HDMI input), USB Capacitive Touch 3840x2160)",525,722400.00,3.5%,1376.00
 "20-3012-1039 (43"" Custom Finished 4K Display w/ PCAP touch, speakers (2x20w), mic...",5,9588.00,0.0%,1917.60
 "20-3012-1042 (48.3” Daisy Chain Bar LCD, M-HDMI in/out, 3840*720, 9.74"" / 247.43m...",48,29874.00,0.1%,622.38
 "20-3012-1047 (48.3” Daisy Chain Bar LCD, M-HDMI in/out, 3840*456, 7.0"" / 177.8mm ...",1,892.00,0.0%,892.00
@@ -331,7 +331,7 @@
 "20-3014-1001 (23.1” Finished, Daisy Chain, 158x1920       )",11,1820.00,0.0%,165.45
 "20-3014-1017 (23.1” Finished, Daisy Chain, No Glass, White, Freezer, 158x1920    )",4,1088.00,0.0%,272.00
 "20-3014-1018 (21.9” Finished, Daisy Chain, No Glass, White, Freezer, 1920 x 720  )",1,334.00,0.0%,334.00
-"20-3018-0015 (49"" Finished Flex-OS, Thin Bezel, 3840 x 2160)",764,525818.00,2.3%,688.24
+"20-3018-0015 (49"" Finished Flex-OS, Thin Bezel, 3840 x 2160)",764,525818.00,2.5%,688.24
 "20-3018-0033 (21.5"" Finished Flex-OS, Outdoor, PoE++, 1500 NITS 1920 x 1080  )",0,0.00,0.0%,0.00
 "20-3018-0036 (19.5"" Finished Flex-OS,1920 x 1080   )",5,2875.00,0.0%,575.00
 "20-3018-0038 (48.5"" UW Finished Flex-OS, 3840x512, (48.5x7.5""))",5,4010.00,0.0%,802.00
@@ -356,10 +356,10 @@
 "20-3018-1029 (49.1"" UW Finished Flex-OS, Touch, 3840x960  (48.5x13""))",4,7604.00,0.0%,1901.00
 "20-3018-1030 (55"" Finished Flex-OS, IK10, Touch, 3840X2160  )",9,13176.00,0.1%,1464.00
 "20-3018-1031 (15.6"" Outdoor Finished Flex OS, HS145 Touch POE++, IK10, AntiGlare,...",105,133518.00,0.6%,1271.60
-"20-3018-1034 (22"" White Square Finished Flex-OS, Touch,  1920x1920  )",1020,1230015.00,5.4%,1205.90
+"20-3018-1034 (22"" White Square Finished Flex-OS, Touch,  1920x1920  )",1020,1230015.00,5.9%,1205.90
 "20-3018-1037 (28"" UW Finished Flex-OS, Touch, 1920x360)",9,9000.00,0.0%,1000.00
 "20-3022-0033 (21.5"" Finished Bright Sign Built-In (HS145) POE, Outdoor 1920 x 1080)",1,1217.00,0.0%,1217.00
-"20-3041-0019 (35.4"" Finished Intel,1920x438)",305,262300.00,1.1%,860.00
+"20-3041-0019 (35.4"" Finished Intel,1920x438)",305,262300.00,1.3%,860.00
 "20-3041-0020 (48.5"" UW Finished Intel, 3840x720, (48.5x10""))",4,4376.00,0.0%,1094.00
 "20-3041-1002 (43"" Finished Intel, Touch, 3840 x 2160      )",4,3208.00,0.0%,802.00
 "20-3041-1014 (13.3"" Finished Intel, Touch, PoE, 1920x1080)",8,3815.00,0.0%,476.88
@@ -376,7 +376,7 @@
 "21-1000-1015 (Debian 12 (128GB EmmC))",7,0.00,0.0%,0.00
 "21-1001-1015 (Debian 12 (64GB EmmC))",6,0.00,0.0%,0.00
 "70-2003-0002 (DIO Board, 2BBL, ROHS  )",300,16833.00,0.1%,56.11
-"70-2059-0001 (Lower Board, Watt, ROHS.  )",590,53631.00,0.2%,90.90
+"70-2059-0001 (Lower Board, Watt, ROHS.  )",590,53631.00,0.3%,90.90
 "70-2059-0002 (ONE BARREL WATT BOARD ROHS  )",20,1155.00,0.0%,57.75
 "70-2061-0002 (RAM/EEPROM PIGGYBACK  )",40,1308.00,0.0%,32.70
 "70-2065-0002 (ANNUNCIATOR, PCB, MASTER LED STATUS  )",116,987.40,0.0%,8.51
@@ -424,7 +424,7 @@
 "CA10 (CA10 - 2 port Car Charger - 30W PD and 18W QC.   Input: DC 12-24V, USB-C ou...",252,1305.00,0.0%,5.18
 "CB101 (CB101)",300,1026.00,0.0%,3.42
 "CB31 (CB31 - Multicolor 4 in 1 Charging cable.  6 pin lightning, micro usb, mini ...",2850,9458.00,0.0%,3.32
-"CB32-WHITE (CB32 - White 3 in 1 keychain charging cable.  6 pin lightning, micro ...",2270,10592.50,0.0%,4.67
+"CB32-WHITE (CB32 - White 3 in 1 keychain charging cable.  6 pin lightning, micro ...",2270,10592.50,0.1%,4.67
 "CB34-BLUE (CB34 - Blue Square keychain 3 in 1 Charging cable.  6 pin lightning, m...",100,169.00,0.0%,1.69
 "CB35 (CB35 - Keychain Data & Charging cable includes type C, Apple lightning and ...",250,603.00,0.0%,2.41
 "CB39 (CB39 - Swiss Army Cable -  Folding 3 in 1 charge cable.  Includes: Type C, ...",400,1412.00,0.0%,3.53
@@ -470,7 +470,7 @@
 "DM04 (DM04 - Distance Measurer-  Ultrasonic distance measurer.)",94,1621.50,0.0%,17.25
 "DM07 (DM07 - Distance Measurer-  Laser Distance Measurer .4-40m range.)",200,6736.00,0.0%,33.68
 "DW01-SILVER (20 Oz  Silver -  Double Wall Stainless Tumbler)",2222,6279.40,0.0%,2.83
-"DW01P-BLACK (20 Oz  Black - Powder Coated Double Wall Stainless Tumbler)",2535,10745.96,0.0%,4.24
+"DW01P-BLACK (20 Oz  Black - Powder Coated Double Wall Stainless Tumbler)",2535,10745.96,0.1%,4.24
 "DW01P-WHITE (20 Oz  White - Powder Coated Double Wall Stainless Tumbler)",5541,28865.32,0.1%,5.21
 "DW02-BLACK (DW02- Black - 30oz - Double Wall Stainless Vacuum Tumbler.)",358,2074.71,0.0%,5.80
 "DW02-SILVER (DW02- Silver- 30oz - Double Wall Stainless Vacuum Tumbler.)",1730,7073.19,0.0%,4.09
@@ -503,20 +503,20 @@
 "EC18 (EC18 - Black Card Style Airtag Holder.)",250,557.50,0.0%,2.23
 "EC19 (EC19 PU Luggage Tag with Airpod Holder.)",3151,5395.00,0.0%,1.71
 "EC20 (EC20 - - Black Silicone Apple Airpods Gen 4 Case with carabiner.)",125,280.00,0.0%,2.24
-"ES04 (ES04 - Bluetooth Earbud Connector to transmit through 3.5mm audio jack.  Ea...",13163,137651.69,0.6%,10.46
+"ES04 (ES04 - Bluetooth Earbud Connector to transmit through 3.5mm audio jack.  Ea...",13163,137651.69,0.7%,10.46
 "ES05 (ES05 -White Bluetooth Wireless Transmitter witih LED.Transmit or recieve to...",470,5986.50,0.0%,12.74
 "FM21 (FM21 - White 3 layerPolyester Face Mask with 1 location Sublimation Imprint..)",250,505.00,0.0%,2.02
 "FN05B-BLACK (FN05B -3 in 1 Fan - Black with black trim Silcone Fan with Type C,  ...",3100,7686.50,0.0%,2.48
 "FN05B-CUSTOM (FN05B -3 in 1 Fan - Custom Color with black trim Silcone Fan with T...",3073,5250.00,0.0%,1.71
 "FN05B-WHITE (FN05B -3 in 1 Fan - White with black trim Silcone Fan with Type C,  ...",10313,20711.91,0.1%,2.01
-"FN09B-CUSTOM (FN09B - - Custom Color Cool Breeze Neck Fan.)",7401,55426.00,0.2%,7.49
-"FN09B-WHITE (FN09B - - White Cool Breeze Neck Fan.)",15339,164484.90,0.7%,10.72
+"FN09B-CUSTOM (FN09B - - Custom Color Cool Breeze Neck Fan.)",7401,55426.00,0.3%,7.49
+"FN09B-WHITE (FN09B - - White Cool Breeze Neck Fan.)",15339,164484.90,0.8%,10.72
 "FN11 (FN11 White Two way folding hand fan with 3 speeds.  1200 mAh battery, usb r...",1375,11486.80,0.1%,8.35
 "FN12 (FN12 White Folding Hand Fan with built in phone stand, mirror and flashlight.)",210,1424.36,0.0%,6.78
 "FN15 (FN15 Charcoal Grey Aluminum Mini Fan.  3 Speeds, 4000mah battery. Up to 20 ...",9,54.54,0.0%,6.06
 "HS03-BEIGE (HS03 - Beige Wheat Straw Dog Bone Shaped Dog Poop bag holder.)",850,510.00,0.0%,0.60
 "HW01-BLACK (HW01  Black Single Handwarmer.  3 heat settings, white box package.)",244,2421.08,0.0%,9.92
-"HW02-BLACK (HW02  2 Pack of Black Handwarmers.  3 heat settings, white box package.)",6390,119891.53,0.5%,18.76
+"HW02-BLACK (HW02  2 Pack of Black Handwarmers.  3 heat settings, white box package.)",6390,119891.53,0.6%,18.76
 "IC07 (IC07- Rotate  Ipad 10.2 Case.  Leatherette case rotates 360 degrees for ult...",4290,37935.30,0.2%,8.84
 "IC34 (IC34- Rotate  Ipad 10th Generation Case.  Leatherette case rotates 360 degr...",2655,25050.35,0.1%,9.44
 "IC36 (IC36- Ipad Pro 12.9"" 6th Gen Hard Case with Hand Strap.)",1100,25245.00,0.1%,22.95
@@ -524,7 +524,7 @@
 "IS01-BLUE (IS01- """"- Blue Aluminum Tablet /  Mobile Device Stand.)",350,346.50,0.0%,0.99
 "IS01-SILVER (IS01- """"- Silver Aluminum Tablet /  Mobile Device Stand.)",1152,2358.00,0.0%,2.05
 "IS03-BLACK (IS03- """"- Folding Black Aluminum Tablet /  Mobile Device Stand.)",1582,15172.60,0.1%,9.59
-"IS03-SILVER (IS03- """"- Folding Silver Aluminum Tablet /  Mobile Device Stand.)",1226,11234.28,0.0%,9.16
+"IS03-SILVER (IS03- """"- Folding Silver Aluminum Tablet /  Mobile Device Stand.)",1226,11234.28,0.1%,9.16
 "IS08 (IS08- Black Plastic  Folding Phone Stand)",400,1713.00,0.0%,4.28
 "JB-CUSTOM-10000 (JB-Custom PVC PowerBank - 10,000mah)",601,9462.69,0.0%,15.74
 "JB01-BLACK (JB-Topaz, Black 2200 MaH Emergency Charger.  5V, 1A Output via USB.  ...",111,792.00,0.0%,7.14
@@ -536,12 +536,12 @@
 "JB39D-WHITE (JB39D -  Compact White 5000mah High Density Power bank. USB C output.)",2775,24239.51,0.1%,8.73
 "JB43-WHITE (JB43 -  White 10,000mah Power Bank, Output: 1 x 2.1A, 1 x 1A)",2061,21548.01,0.1%,10.46
 "JB52-WHITE (JB52 - White - Charge N Go 200mah keychain power bank with integrated...",653,2628.04,0.0%,4.02
-"JB57 (JB57 - 5000 mah Magnetic Wireless Charging Power Bank. With 20W PD Output.)",17743,248739.80,1.1%,14.02
+"JB57 (JB57 - 5000 mah Magnetic Wireless Charging Power Bank. With 20W PD Output.)",17743,248739.80,1.2%,14.02
 "JB58 (JB58 - 20K Mah 65 Watt Power Bank.    Total 65W PD output)",556,17995.19,0.1%,32.37
 "JB59 (JB59 - 10,000mah Solar and   Wireless Charging Power Bank.  Includes built ...",1090,23589.15,0.1%,21.64
 "JB60 (JB60 - 10,000mah See Through Wireless Charging Power Bank supports MagSafe ...",400,7325.24,0.0%,18.31
 "JB65 (JB65 - Black 3 in 1, 10K Mah Magnetic 15W Wireless Charging Power Bank..  C...",2,0.00,0.0%,0.00
-"JB66 (JB66 - 10,000ma Magnetic Wireless  Power Bank with LED.  Type C output. Inc...",5296,94390.67,0.4%,17.82
+"JB66 (JB66 - 10,000ma Magnetic Wireless  Power Bank with LED.  Type C output. Inc...",5296,94390.67,0.5%,17.82
 "JB69 (JB69-5000mah Power Bank with Light  up Logo)",201,2588.00,0.0%,12.88
 "JB70 (JB70-10000mah Power Bank with Light  up Logo)",252,4306.50,0.0%,17.09
 "JB72 (JB72- Business Notebook with 8000mah Power Bank and 16GB Flash Memory.)",61,1592.71,0.0%,26.11
@@ -565,7 +565,7 @@
 "LY1801 (LY1801 -1"" Sublimated Wrist Lanyard with split ring keyring  )",14150,7031.00,0.0%,0.50
 "LY1802 (LY1802 -3/4"" Sublimated Wrist Lanyard with split ring keyring  )",3000,1485.00,0.0%,0.50
 "LY201 (LY201 - 1"" Polyester with Sublimation print.  Standard J Clip attachment.)",15905,12764.95,0.1%,0.80
-"LY202 (LY202 -  3/4"" Polyester with Sublimation print.  Standard J Clip attachment.)",130252,76810.83,0.3%,0.59
+"LY202 (LY202 -  3/4"" Polyester with Sublimation print.  Standard J Clip attachment.)",130252,76810.83,0.4%,0.59
 "LY203 (LY203- 5/8"" Polyester with Sublimation print.  Standard J Clip attachment.)",11850,5931.00,0.0%,0.50
 "LY204 (LY204- 3/8"" Polyester with Sublimation print.  Standard J Clip attachment.)",501,354.50,0.0%,0.71
 "LY303 (LY303- 5/8"" Tubular lanyard with step and repeat logo.  Standard J Clip at...",250,172.50,0.0%,0.69
@@ -622,7 +622,7 @@
 "SC10 (SC10  - Wipee 6 x 6L  -15cm x 15cm  Microfiber Screen Cleaner cloth.)",7500,3488.00,0.0%,0.47
 "SC12 (SC12   - Large Wipee  (30 x 30cm)   -  Large Microfiber Cleaner Cloth. ( ap...",500,850.00,0.0%,1.70
 "SC21B-DARKBLUE (SC21B  -Spray & Wipe, Navy  Blue, Water based screen cleaner with...",30205,49081.61,0.2%,1.62
-"SC21B-GREY (SC21B  -Spray & Wipe,  Grey,   Water based screen cleaner with integr...",56734,94376.29,0.4%,1.66
+"SC21B-GREY (SC21B  -Spray & Wipe,  Grey,   Water based screen cleaner with integr...",56734,94376.29,0.5%,1.66
 "SC23 (SC23- - Grey Sticky Microfiber Camera cover / Screen Cleaner.)",500,550.00,0.0%,1.10
 "SD-16G-BLACK (16GB SD card)",500,250.00,0.0%,0.50
 "SD-ADAPTER-MICRO (SD card adapter for Micro SD Cards.)",100,30.00,0.0%,0.30
@@ -749,13 +749,13 @@
 "WC-CUSTOMPVC (WC-Custom PVC- Custom PVC molded Wireless Charger.  5V 1A)",4334,41935.98,0.2%,9.68
 "WC03-BLACK (WC03 - Black Vent Mount Phone Holder / Wireless Charger.)",100,1284.00,0.0%,12.84
 "WC03B-BLACK (WC03B - Black Vent Mount Phone Holder / Wireless Charger.)",15,0.00,0.0%,0.00
-"WC10B-WHITE/WHITE (WC10B -Wireless Charger -  White with White trim.  Compatible ...",23820,74145.05,0.3%,3.11
+"WC10B-WHITE/WHITE (WC10B -Wireless Charger -  White with White trim.  Compatible ...",23820,74145.05,0.4%,3.11
 "WC16B-WHITE (WC16 - """" - Clear White with black trim,  Wireless Qi Charger.  Uses...",1202,4357.71,0.0%,3.63
 "WC21B (WC21B - Black Quick Charge 10W Phone Stand Wireless Charger.  Output : 15W...",825,7736.45,0.0%,9.38
 "WC35-BLACK (WC35 - Black 15 Watt, 4 in 1 wireless charger.  Charges phone, airpod...",857,17274.75,0.1%,20.16
 "WC36-BLACK (WC36 - Black 15 Watt, 3 in 1 wireless charger.  Charges phone, airpod...",978,24349.67,0.1%,24.90
 "WC38B-WHITE (WC38B - White 15 Watt, 3 in 1 folding wireless charger with Plastic ...",3452,49246.40,0.2%,14.27
-"WC41 (WC41 - 15Watt White  Wireless Charger, Type C input :5V/3A?9V/2A , Wireless...",5667,32757.72,0.1%,5.78
+"WC41 (WC41 - 15Watt White  Wireless Charger, Type C input :5V/3A?9V/2A , Wireless...",5667,32757.72,0.2%,5.78
 "WC42 (WC42 - 15Watt Black Vent Mount Wireless Charger, Type C input :5V/3A?9V/2A ...",100,1727.00,0.0%,17.27
 "WC43-BLACK (WC43 - Black 15 Watt, 3 in 1 wireless charger.  Charges phone, airpod...",100,3246.50,0.0%,32.47
 "WC45-BLACK (WC45- Black Magnetic Max 15Watt 3 in 1 Wireless charger with built in...",303,2187.50,0.0%,7.22
@@ -766,138 +766,6 @@
 "WC52 (WC52 - Bamboo Wireless Charging Phone Stand with LIght up logo-  15Watt   W...",125,1633.45,0.0%,13.07
 "WC53 (WC53 - Bamboo Round   Wireless Charger  with LIght up logo-  15Watt   Wirel...",51,504.75,0.0%,9.90
 "WC54 (WC54 - Bamboo Square Wireless Charger  with LIght up logo-  15Watt   Wirele...",1,0.00,0.0%,0.00
-"Total Inventory",1331245.00,20913440.69,91.5%,15.71
-"Parts","","",,""
-"20-3003-16GBSDCARD (16GB Sandisk Ultra Class10 MicroSD Card, Gen 3)",1167,1275.00,0.0%,1.09
-"20-3008-BSBI-WIFI (BrightSign Built-In WIFI Module)",560,487.50,0.0%,0.87
-"20-3008-HS124 (BrightSign Built-In HS124 companion board)",240,0.00,0.0%,0.00
-"21-1000-1002F (Win 11 IoT Enterprise LTSC 2024 ESD OEI Entry EPKEA (1:M), for Fac...",40,0.00,0.0%,0.00
-"AC01-CK (Carabiner Keychain Attachment for USB Drives)",750,37.50,0.0%,0.05
-"AC01-SK (Split Ring Key Ring)",6553,346.25,0.0%,0.05
-"AC03-BL (Basic Black Lanyard for USB Drives)",300,0.00,0.0%,0.00
-"AC03-SL (Basic Silver Lanyard for USB Drives)",100,20.00,0.0%,0.20
-"BF-Misc (Miscellaneous parts for BF)",2,4642.75,0.0%,2321.38
-"Custom Build (Custom Build)",120,960.00,0.0%,8.00
-"FBD-Misc (Miscellaneous parts for FBD)",3668,58369.20,0.3%,15.91
-"LY-BC (LY-BC Bulldog Clip  for Lanyards.)",27386,737.00,0.0%,0.03
-"LY-BH-CUSTOM (LN-BH Custom Size PVC Badge Holder for Lanyard.)",16489,2518.75,0.0%,0.15
-"LY-BR (LY-BR - Lanyard Badge Reel.)",5075,903.75,0.0%,0.18
-"LY-CR (LY-CR - Metal Crimp  for Lanyards.)",3855,154.90,0.0%,0.04
-"LY-EXT (LY-EXT -  Lanyard Extension.)",500,100.00,0.0%,0.20
-"LY-JC1 (LY-JC1 - Standard J Clip for Lanyards)",25677,270.00,0.0%,0.01
-"LY-LC (LY-LC Lobster Claw for Lanyards.)",69451,1872.11,0.0%,0.03
-"LY-QR1 (LY-QR1 - Lanyard Quick Release 1)",78874,6473.17,0.0%,0.08
-"LY-QR2 (LY-QR2 - Lanyard Quick Release 2)",7700,437.00,0.0%,0.06
-"LY-RB (LY-RB - Lanyard Click Release Buckle)",6650,845.00,0.0%,0.13
-"LY-SC1 (LY-SC1-  Carabiner 1 for Lanyards.)",3000,0.00,0.0%,0.00
-"LY-SC2 (LY-SC2-  Carabiner 2 for Lanyards.)",500,55.00,0.0%,0.11
-"LY-SR (LY-SR - Split Ring for Lanyards)",6589,60.00,0.0%,0.01
-"PK01-PPE (PK01-PPE -Individual Plastic  Bag PPE03, PPE04, PPE05, PPE06)",10,1.00,0.0%,0.10
-"PK01-PVC (Optional PVC Pouch for Screen Cleaners.)",2500,625.00,0.0%,0.25
-"PK01-SPG (PK01-SPG Small PE Bag)",14716,648.38,0.0%,0.04
-"PK01-WZB01 (Apple Style Plastic Zipper Bag ( Small))",500,50.00,0.0%,0.10
-"PK02-LPG (PK02-LPG- Large PE bag with ziplock)",1000,650.00,0.0%,0.65
-"PK03-SPX (PK03-SPX - Small clear plastic box with Magnetic Closeure)",3750,2437.50,0.0%,0.65
-"PK04-FP01 (PK-FP01 - Small  Grey Drawsting Pouch for Earbuds.)",600,450.00,0.0%,0.75
-"PK08-BBS (PK08-BBS - Small black gift box)",750,487.50,0.0%,0.65
-"PK08-CRK-BLUE (Blue Crinkle Paper)",1,0.00,0.0%,0.00
-"PK08-CRK-WHITE (White Crinkle Paper)",50,0.00,0.0%,0.00
-"PK08-CUSTOM (PK08-CUSTOM - Custom Ordered box.)",8133,6697.00,0.0%,0.82
-"PK08-KT-WHITE (White Box for KT Kits.)",50,0.00,0.0%,0.00
-"PK08-PB01 (PK-PB01 - White Gift Box for Chargers.)",1200,1200.00,0.0%,1.00
-"SAMPLES (Samples)",4505,5393.27,0.0%,1.20
-"SZ-BSBI-1144XT-PP (BrightSign XT1144-PP board)",4097,131104.00,0.6%,32.00
-"SZ-HS125 (HS125 companion board)",2898,86940.00,0.4%,30.00
-"SZ-HS145 (HS145 companion board)",13161,394830.00,1.7%,30.00
-"SZ-WD104 (Wi-Fi / Bluetooth Dual Antenna Module)",300,1500.00,0.0%,5.00
-"SZ-WD104-500 (Wi-Fi / Bluetooth Dual Antenna Module 500mm Cable)",4150,20750.00,0.1%,5.00
-"UD20-SWIVEL-BLACK. (Black Swivel for UD20)",4460,0.00,0.0%,0.00
-"UD20-SWIVEL-BLUE. (Blue Swivel for UD20)",1050,0.00,0.0%,0.00
-"UD20-SWIVEL-CUSTOM. (Custom Swivel for UD20)",2000,0.00,0.0%,0.00
-"UD20-SWIVEL-PURPLE. (Purple Swivel for UD20)",20,0.00,0.0%,0.00
-"UD20-SWIVEL-SILVER. (Silver Swivel for UD20)",56357,0.00,0.0%,0.00
-"UD20-SWIVEL-WHITE. (White Swivel for UD20)",3105,0.00,0.0%,0.00
-"Total Parts",394609.00,734328.53,3.2%,1.86
-"Service","","",,""
-"00-0000-0000 (Art setup charge)",1,1952.00,0.0%,1952.00
-"00-9800-0014 (RMA repair)",110,91.00,0.0%,0.83
-"21-1000-1009 (Windows Installation, Standard BIOS)",273,3600.00,0.0%,13.19
-"21-1000-1010 (Windows Installation for Quad, Custom BIOS, Custom Image, Custom Di...",184,350.00,0.0%,1.90
-"21-1000-1011 (Windows Installation for Harbor, Custom BIOS)",1,0.00,0.0%,0.00
-"21-1000-1018 (Windows Installation for Quad, Custom BIOS, Custom Image, Custom Di...",13,200.00,0.0%,15.38
-"21-1000-1021 (Spinetix Software)",12,0.00,0.0%,0.00
-"22-1000-1005 (Installation for Harbor, Custom BIOS)",6,0.00,0.0%,0.00
-"3% Credit Car Processing Fee (Credit Card Processing Fee)",5,122.51,0.0%,24.50
-"40-0100-0001 (Uniguest Pre-Configure Linux and Test)",2,10.00,0.0%,5.00
-"Android 10 (Android 10)",1,0.00,0.0%,0.00
-"Android 11 (Android 11)",647,0.00,0.0%,0.00
-"Certification- REACH (REACH Certification)",2,20.00,0.0%,10.00
-"Certification-CE (CE Certification)",2,1613.00,0.0%,806.50
-"Certification-FCC (FCC Certification)",2,864.00,0.0%,432.00
-"Certification-UL (UL Certification)",4,20134.75,0.1%,5033.69
-"CHARGE-CHANGE (Change order Fee.)",3,105.00,0.0%,35.00
-"CHARGE-CHINA-DS1 (International Drop Ship < 100lbs)",83,11344.00,0.0%,136.67
-"CHARGE-CHINA-DS2 (International Drop Ship  100+ lbs)",33,5140.00,0.0%,155.76
-"CHARGE-DROPSHIP (Drop Ship Charge - Per address)",2615,11563.00,0.1%,4.42
-"CHARGE-FULFILLMENT (Fulfillment Charge)",45607,9999.25,0.0%,0.22
-"CHARGE-LTM (Less Than Minimum Order)",75,3710.00,0.0%,49.47
-"CHARGE-RUSH24 (24 Hour Rush Charge)",957,1110.00,0.0%,1.16
-"CHARGE-RUSH48 (48 Hour Rush Charge)",1935,1014.00,0.0%,0.52
-"CR01-INSERT (Custom Insert Card for CR01)",1400,770.00,0.0%,0.55
-"DATALOAD-1 (Dataload Run Charge < 500MB)",4917,500.00,0.0%,0.10
-"DATALOAD-2 (Dataload Run charge 501MB - 1GB)",1026,1439.00,0.0%,1.40
-"DATALOAD-3 (Dataload Run Charge per GB over 1.)",332,1216.00,0.0%,3.66
-"DATALOAD-DOMESTIC (Domestic Dataload Charge.)",500,387.50,0.0%,0.78
-"Debian 10 (Debian 10)",615,0.00,0.0%,0.00
-"Debian 11 (Debian 11)",1272,250.00,0.0%,0.20
-"Engineering Fee (Engineering Fee)",9,15540.00,0.1%,1726.67
-"EVALUATION (Evaluation unit(s) to be returned within 30 days, in original conditi...",46,0.00,0.0%,0.00
-"NCNR (Non-Cancellable Non-Returnable order)",23,0.00,0.0%,0.00
-"PREPRO-CHARGE (Preproduction Proof Charge)",13,160.00,0.0%,12.31
-"PREPRO-REORDER (Reorder Preproduction Proof - Compare with Sample)",7,0.00,0.0%,0.00
-"REORDER (Exact Reorder)",5422,1096.70,0.0%,0.20
-"RUN-1COLOR (One Color Imprint Run Charge / Location)",669040,16136.96,0.1%,0.02
-"RUN-2COLOR (Run Charge - Two Color Imprint - per location)",172383,35383.27,0.2%,0.21
-"RUN-3COLOR (Run Charge -  Three Color Imprint - per location)",35393,2710.50,0.0%,0.08
-"RUN-4COLOR (Four Color Imprint Run Charge / Location)",7951,0.00,0.0%,0.00
-"RUN-5COLOR (Five Color Imprint Run Charge / Location)",1500,0.00,0.0%,0.00
-"RUN-DEBOSS (Run Charge - Deboss - per  location)",550,275.00,0.0%,0.50
-"RUN-EDGE-FULL COLOR (Run Charge -  Full Color Process Edge to Edge  per location)",11903,309.50,0.0%,0.03
-"RUN-FULL COLOR (Run Charge - Full Color Process per location)",435259,64839.93,0.3%,0.15
-"RUN-LASER (Run Charge - Laser Engrave -  per location)",17448,283.50,0.0%,0.02
-"RUN-OXIDIZED LASER (Run Charge - Oxidized Laser Engrave -  per location)",3000,375.00,0.0%,0.13
-"RUN-STEP-REPEAT (Run Charge - Lanyard Step and Repeat)",9726,0.00,0.0%,0.00
-"SETUP-1COLOR (Setup Charge - One Color -  per Location)",2864,57165.96,0.3%,19.96
-"SETUP-2COLOR (Setup Charge - Two Color -  per Location)",1029,13071.72,0.1%,12.70
-"SETUP-3COLOR (Setup Charge - Three Color -  per Location)",34,980.00,0.0%,28.82
-"SETUP-DEBOSS (Deboss Setup Charge -  per location)",2,100.00,0.0%,50.00
-"SETUP-EPOXY (Epoxy Dome Setup - per logo)",3,131.66,0.0%,43.89
-"SETUP-FULL COLOR (Setup Charge -Full Color Process Imprint Setup Charge)",1858,30737.46,0.1%,16.54
-"SETUP-LASER (Setup Charge - Laser Engrave)",45,315.00,0.0%,7.00
-"SETUP-PVC MOLD (Custom PVC Setup Charge)",132,23366.00,0.1%,177.02
-"VAT-China",28,18158.98,0.1%,648.54
-"VAT-NL to EU (Intra-community sale -0%- VAT amount 0 EURO)",133,0.00,0.0%,0.00
-"VAT-NL to NL (VAT amount 0 euro  VAT Reverse Charged)",38,0.00,0.0%,0.00
-"VAT-NL to non-EU (Export - 0% - VAT amount 0 EURO)",82,0.00,0.0%,0.00
-"Warranty-1 Yr (Warranty- 1 Year)",41,1419.28,0.0%,34.62
-"Warranty-2nd Yr (Warranty-2nd Year)",2086,58669.60,0.3%,28.13
-"Warranty-3rd Yr (Warranty-3rd Year)",2082,76723.98,0.3%,36.85
-"Total Service",1442765.00,495455.01,2.2%,0.34
-"Other Charges","","",,""
-"00-9800-0000 (Accounting Adjustment)",0,-1959.36,-0.0%,""
-"00-9800-0004 (Marketing Funds)",-2,-13665.53,-0.1%,6832.77
-"00-9800-00041 (Marketing Funds-End User Shows)",-9,-21250.00,-0.1%,2361.11
-"00-9800-0008 (Processing Fee)",1,3018.00,0.0%,3018.00
-"00-9800-0010 (Volume Incentive Rebate Payment)",-124,-137392.42,-0.6%,1108.00
-"00-9800-0013 (RMA Discounts/ Customer GW)",-3027,-122497.40,-0.5%,40.47
-"00-9800-0017 (Restock Fee)",4,10093.20,0.0%,2523.30
-"DROP SHIP (Drop Shipment- No Paperwork!  No Paperwork!)",8345,8445.00,0.0%,1.01
-"FREE FREIGHT (Free Freight)",609,172.86,0.0%,0.28
-"HST (Harmonized Sales Tax)",27,5617.31,0.0%,208.05
-"OTHER FREIGHT (Bill Freight  to Third Party Account #)",5215,940.00,0.0%,0.18
-"SHIPPING (Shipping and Handling)",14252,978829.50,4.3%,68.68
-"SHIPPING-FOB TORONTO (FREE FREIGHT Shipping and Handling FOB Toronto.)",30,0.00,0.0%,0.00
-"THIRD PARTY HANDLING (Handling Charge for using third party shipping account.)",15,46.00,0.0%,3.07
-"Total Other Charges",25336.00,710397.16,3.1%,28.04
-"Total Uncategorized",3193955.00,22853621.39,100.0%,7.16
-"TOTAL",3193955,22853621.39,100.0%,7.16
+"Total Inventory",1331245.00,20913440.69,100.0%,15.71
+"Total Uncategorized",1331245.00,20913440.69,100.0%,15.71
+"TOTAL",1331245,20913440.69,100.0%,15.71
